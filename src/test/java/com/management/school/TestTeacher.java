@@ -1,2 +1,4 @@
-package com.management.school;public class TestTeacher {
+package com.management.school;
+
+public class TestTeacher {
 }

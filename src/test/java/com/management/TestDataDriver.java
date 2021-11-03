@@ -1,2 +1,4 @@
-package com.management;public class TestDataDriver {
+package com.management;
+
+public class TestDataDriver {
 }

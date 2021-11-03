@@ -1,2 +1,4 @@
-package com.management.school;public class TestStudent {
+package com.management.school;
+
+public class TestStudent {
 }
